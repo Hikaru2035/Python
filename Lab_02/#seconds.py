@@ -1,0 +1,1 @@
+seconds = int(input("Enter seconds:"))

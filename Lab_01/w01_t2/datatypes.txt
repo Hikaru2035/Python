@@ -1,0 +1,7 @@
+a. A company’s profit: float
+b. A person’s weight: float
+c. A book title: interger
+d. Average rainfall in September: float
+e. Number of runs scored by a cricketer: interger
+f. A telephone number, including area code: string
+g. A dress size: string
